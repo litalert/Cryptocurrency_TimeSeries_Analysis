@@ -1,6 +1,9 @@
 # Cryptocurrency_TimeSeries_Analysis
 code produced from cryptocurrency time series analysis project as part of Springboard Capstone 1
 
+I have written a blog post about this project in an easy-to-understand narrative. The post can be found here:
+https://towardsdatascience.com/demystifying-cryptocurrency-price-prediction-5fb2b504a110
+
 The best way to understand this project is to read the files in the following order:
 1) capstone1-proposal_final.txt
 2) capstone1-statistical_infference_EDA.ipynb
